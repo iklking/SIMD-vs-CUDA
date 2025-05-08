@@ -3,6 +3,9 @@
 + Developed equivalent Python implementations using NumPy (scalar) and CuPy (CUDA) in Google Colab to analyze GPU-based parallelization 
 + Explored CPU vs. GPU data-level parallelism, evaluating performance trade-offs and drawing conclusions from experimental results
 ## Files
+### Report
++ Compares execution times of SIMD and CUDA against their scalar alternatives
++ Explores the idea of data parallelism
 ### SIMD
 SIMD_Vector_Addition.cpp
 + Runs vector addition algorithms in scalar and AVX2 SIMD formats
