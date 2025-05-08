@@ -4,6 +4,7 @@
 + Explored CPU vs. GPU data-level parallelism, evaluating performance trade-offs and drawing conclusions from experimental results
 ## Files
 ### Report
+Comparitive Study SIMD vs CUDA
 + Compares execution times of SIMD and CUDA against their scalar alternatives
 + Explores the idea of data parallelism
 ### SIMD
